@@ -1895,6 +1895,27 @@ body {
     padding-bottom: 0!important;
   }
 }
+.cid-rA7nfm4Dou {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rA7nfm4Dou .title {
+  margin-bottom: 2rem;
+}
+.cid-rA7nfm4Dou .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rA7nfm4Dou a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-rA7nfm4Dou a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-rA7nfm4Dou textarea.form-control {
+  min-height: 188px;
+}
 .cid-ry10gYQYhL {
   padding-top: 0px;
   padding-bottom: 90px;
