@@ -5925,25 +5925,6 @@ body {
 .cid-rCQhsSQ7Ki .dropdown-item:hover {
   color: #efefef !important;
 }
-.cid-rA7pSv2dSW {
-  background-image: url("../../../assets/images/landing-1920x1080.jpg");
-}
-.cid-rA7pSv2dSW .mbr-figure {
-  margin: 0 auto;
-  width: 100%;
-  display: -webkit-flex;
-  justify-content: center;
-  -webkit-justify-content: center;
-}
-.cid-rA7pSv2dSW .mbr-figure img {
-  height: 100%;
-  margin: 0 auto;
-}
-@media (max-width: 991px) {
-  .cid-rA7pSv2dSW .mbr-figure img {
-    width: 100% !important;
-  }
-}
 .cid-rA7oVRGYMi {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -6015,6 +5996,10 @@ body {
   .cid-rA7oVRGYMi .container > .row > .col-md-6:last-child {
     padding-left: 30px;
   }
+}
+.cid-rA7oVRGYMi .icon-block,
+.cid-rA7oVRGYMi .icon-block .icon-block__title {
+  text-align: left;
 }
 .cid-rA76Hy1oEM {
   background-image: url("../../../assets/images/landing-1920x1080.jpg");
